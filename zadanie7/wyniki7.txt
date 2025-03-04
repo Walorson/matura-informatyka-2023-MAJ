@@ -1,0 +1,42 @@
+7.1
+
+K2
+
+7.2
+
+nazwa		ŚredniaOfocena
+5 sekund		8,16
+Avalone			8,25
+Colt Express		7,54
+Jenga			8,16
+Koncept			8,37
+Mamy szpiega		8,22
+Przebiegle wielblady	7,73
+Sushi Go		8,07
+Swiatowy Konflikt	7,8
+Szeryf z Nottingham	7,88
+
+7.3
+
+334
+
+7.4
+
+Juniorzy
+
+Największa liczba ocen: 6
+Gry z największą liczbą ocen:
+K2
+Terraformacja Marsa
+
+Seniorzy
+
+Największa liczba ocen: 24
+Gra z największą liczbą ocen:
+K2
+
+Weterani
+
+Największa liczba ocen: 28
+Gra z największą liczbą ocen:
+Robinson Crusoe
